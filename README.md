@@ -1,4 +1,4 @@
-<Minnesota Boot Camp Module 2 Challenge>
+# Minnesota Boot Camp Module 2 Challenge
 
 ## Description
 
